@@ -8,8 +8,8 @@ export default function Home() {
               Welcome To Your Watch List
           </h1>
           <p className="text-lg md:text-xl text-white mb-6">
-              Your personal space to curate and manage a watch list of your favorite movies and TV shows. 
-              Sign in to create, view, edit, and delete shows from your watch list.
+              Your personal space to curate and manage a wishlist or to track any of your watches that you desire. 
+              Sign in to create, view, edit, and delete any items from your watch list.
           </p>
           <div className="bg-gray-800 p-6 rounded-lg shadow-lg">
               <AuthForm />
