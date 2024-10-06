@@ -11,7 +11,7 @@ export default function AuthForm(){
         view="magic_link"
         showLinks={false}
         providers={[]}
-        redirectTo='http://localhose:300/auth/callback'
+        redirectTo='https://lab8-xv3r.vercel.app/auth/callback'
         appearance={{
             them:'dark',
             button:{
